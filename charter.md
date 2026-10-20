@@ -96,6 +96,8 @@ Operational translation:
 - **New standing landscape — private-AI-company equity perps:** Pillar 2's current unique edge lives in alias/perp markets on private AI companies. The Brain opens this as a standing landscape: market structure, oracle/settlement mechanics, counterparty and venue risk, regulatory posture, and above all the **durability of the spread** (structural vs transient). Cycle 004 carries the first scan.
 - **[DAO-WATCH] Pillar 2 trajectory:** regulatory and governance-model intel for the future DAO (legal wrappers, DUNA/MiCA posture, treasury-management practice, governance-framework market).
 
+> **Scope guard (owner reaffirmed 2026-10-21):** these duties are **additive, never restrictive**. The generalist multi-landscape mandate of §2 — fintech, exchanges, cross-market infrastructure, and any landscape where an edge may exist — remains the backbone of every cycle. Pillar-support work channels a *subset* of output toward the Org's pillars; it never narrows what the Brain watches. New landscapes enter on evidence, not on org membership.
+
 ### 6.4 Portfolio v3 pillar crosswalk (initial)
 
 - **C2 session-bridge** ↔ [P2-FEED] TokenizedEquity / EquityPerpCrossVenue: the objection map *is* the engine's arable-symbol set; the Dec 6 clock is shared.
