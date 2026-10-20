@@ -37,6 +37,8 @@
 
 ## Standing scans (no date; run when fresh value exists)
 
+> **Amendment 004 (2026-10-21):** standing pillar-support scans are retired. Entries below retained as the completed record of Wave 1; no pillar scan is queued again unless market evidence independently warrants it.
+
 - Private-AI-company equity perps landscape — [P2-FEED] — **COMPLETE 2026-10-21** (findings/cycle-004-wave1-research.md Part A; full report findings/cycle-004-wave1/4a)
 - Formal-verification market — [P1-WATCH] — **COMPLETE 2026-10-21** (Part B; full report 4b)
 - DAO-formation intel — [DAO-WATCH] — **COMPLETE 2026-10-21** (Part C; full report 4c)
@@ -46,4 +48,4 @@
 ## Staging
 
 - **Cycle 004 Wave 1** (this session, 2026-10-21): the four standing landscape scans above. Marker sweep not yet due (nearest marker Oct 27).
-- **Cycle 004 Wave 1b** (on/after owner ping ≥ Oct 27): sweep Oct 27 IST read-through + Oct 31 OCC rule text (if published) + carried queue (objection expiries approach, OPay roadshow signals, Fed Oct 27–28 outcome) → then Wave 2 synthesis: tri-focal brief (Decision / Builder / Map) with all Wave 1 + Wave 1b evidence, arable-symbol deliverable, expansion theses.
+- **Cycle 004 Wave 1b** (on/after owner ping ≥ Oct 27): sweep Oct 27 IST read-through + Oct 31 OCC rule text (if published) + carried queue (objection expiries approach, OPay roadshow signals, Fed Oct 27–28 outcome) → then Wave 2 synthesis: tri-focal brief (Decision / Builder / Map) with all market-intel evidence and expansion theses. **(Amendment 004: pure market-intel cycle — no pillar deliverables carried; the arable-symbol full pull is optional, only if market evidence warrants.)**

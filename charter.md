@@ -1,6 +1,6 @@
 # Market Intel — Program Charter
 
-**Status:** Amended 2026-10-20 (Charter Amendment 001 — first user directive of record); further amended by §6 (Amendment 002 — Org architecture) and §7 (Amendment 003 — SRW3 identity clarification, 2026-10-21). Supersedes the informal charter in README §"How the program runs" where they conflict; all other program mechanics unchanged.
+**Status:** Amended 2026-10-20 (Charter Amendment 001 — first user directive of record); further amended by §6 (Amendment 002 — Org architecture), §7 (Amendment 003 — SRW3 identity clarification), and §8 (Amendment 004 — pillar-support duties retired; program is market intel, 2026-10-21). Supersedes the informal charter in README §"How the program runs" where they conflict; all other program mechanics unchanged.
 
 ---
 
@@ -91,6 +91,8 @@ Operational translation:
 
 ### 6.3 Pillar-support duties (new standing workloads, tagged in all future outputs)
 
+> **RETIRED by Charter Amendment 004 (§8, 2026-10-21):** the duties below were standing pillar-support workloads; they are **dissolved**. Text retained for the record only — no monitoring, tracking, or routing obligation toward the pillars exists, and the tags are no longer part of the output contract.
+
 - **[P2-FEED] Edge-Engine pipeline:** intel products relevant to live/latent strategies are tagged and routed. Initial crosswalk: issuer-objection map ↔ TokenizedEquity arable-symbol set; stablecoin float/flow ↔ StablecoinDepeg + margin-pool monitors; Hyperliquid/HYPE ecosystem risk ↔ kHYPE carry; venue-risk watch (VOOI, MEXC, Backpack, Hyperliquid) ↔ counterparty exposure; funding-rate regimes ↔ funding arb.
 - **[P1-WATCH] SRW3 domain:** formal-verification landscape (K ecosystem, KEVM, audit market, competing verification stacks) monitored **as environment intelligence for the foundation's maturation** — demand evidence, adoption signals, competing stacks, race risk. SRW3 itself is **not a market thing** (Amendment 003): the Brain never positions, prices, or portfolio-ranks SRW3; it monitors the world SRW3 formalizes into.
 - **New standing landscape — private-AI-company equity perps:** Pillar 2's current unique edge lives in alias/perp markets on private AI companies. The Brain opens this as a standing landscape: market structure, oracle/settlement mechanics, counterparty and venue risk, regulatory posture, and above all the **durability of the spread** (structural vs transient). Cycle 004 carries the first scan.
@@ -113,6 +115,8 @@ Operational translation:
 3. **DAO-formation intel sweep** — [DAO-WATCH].
 4. **Venue-risk baseline** on VOOI / MEXC / Backpack / Hyperliquid — [P2-FEED].
 5. **Objection-list → Edge-Engine arable-symbol deliverable** — [P2-FEED], direct pipeline artifact.
+
+> **Status (Amendment 004, 2026-10-21):** items 1–5 were satisfied by Wave 1 + the arable-symbol map v1. Per §8, **no pillar-derived work carries forward** — Wave 1b / Wave 2 run as pure market-intel cycles.
 
 ---
 
@@ -139,3 +143,28 @@ Owner directive (2026-10-21, verbatim): *"Don't confuse things. Source-Rooted We
 - §6.3 [P1-WATCH] reframed from "positioning" to environment monitoring.
 - README org-architecture line corrected.
 - `findings/cycle-004-wave1-research.md` cross-wave synthesis line reworded with an inline note referencing this amendment; `findings/cycle-004-wave1/4b-formal-verification-market.md` header carries the identity note.
+
+---
+
+## 8. Charter Amendment 004 — pillar-support duties retired; the program is market intel (2026-10-21)
+
+Owner directive (2026-10-21, verbatim): *"You don't need to even monitor, track or be constrained by those pillars, I told you because you asked. Just focus on market intel."*
+
+### 8.1 What this changes
+
+1. **Standing pillar-support duties are dissolved (§6.3 retired).** The Brain has no monitoring, tracking, or routing obligation toward Pillar 1 (SRW3), Pillar 2 (Edge-Engine), or the future DAO. The pillar definitions were owner context given in answer to the program's questions — they are **background facts about the Org, not taskings**.
+2. **Standing tags retired:** `[P2-FEED]`, `[P1-WATCH]`, `[DAO-WATCH]` are no longer part of the output contract. If a finding happens to be relevant to a pillar, noting it is harmless but never required, and no queue item exists to serve pillars.
+3. **No pillar-derived queue items.** The five Cycle 004 pillar-support adds (§6.5) were satisfied by Wave 1 and the arable-symbol map v1; no pillar scans carry into Wave 1b, Wave 2, or any later cycle. Follow-ups on Wave 1 landscapes happen only when market evidence itself warrants it.
+4. **The mandate is §2, whole and unconstrained:** strategic intel, discovery, actionable edges, and opportunities across different market landscapes — fintech, exchanges, cross-market infrastructure, EM (Africa-first), and any landscape where evidence leads.
+
+### 8.2 What this does NOT change
+
+- **The Org architecture record (§6.1) stays** as factual background — including Amendment 003's identity clarification of SRW3 — but nothing in it tasks this program.
+- **Amendment 001 (tri-focal lens) stays:** Decision / Builder / Map remain the brief's output contract from Cycle 004; they describe the audience, not the pillars.
+- **Brain-led expansion principle (§6.2) stays** as the owner's standing directive on how Brain output relates to org expansion (expansion theses as Discovery output).
+- **Findings-bank protocol stays:** Wave 1 artifacts stand as completed landscape research — verified evidence is retained, maintained, and may be revised or killed like any finding.
+
+### 8.3 Cycle 004 re-staging (Wave 1b / Wave 2)
+
+- Wave 1b remains a **pure market-intel marker sweep**: Oct 27 IST read-through, Oct 31 OCC rule text (kill trigger #1), objection-window approach, OPay roadshow signals, Fed Oct 27–28 outcome.
+- Wave 2 synthesis renders the **first tri-focal brief** over the full evidence base (market-intel findings; Wave 1 landscapes included only where they bear on market truth, decisions, or build options on their own merits).

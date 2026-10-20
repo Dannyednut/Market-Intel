@@ -399,3 +399,20 @@ Stage Summary:
 - [P1-WATCH] continues, reframed: environment monitoring for the foundation's maturation; the Brain never positions SRW3 as a market asset.
 - Cycle 004 queue and all dated triggers unchanged; next scheduled wave = Oct 27+ ping (Wave 1b sweep + Wave 2 full cycle + first tri-focal brief).
 - PAT used for push; rotation reminder stands.
+---
+Task ID: CA-4 (Charter Amendment 004 — pillar-support duties retired; program is market intel)
+Agent: orchestrator (main)
+Task: Register owner directive — the program does not need to monitor, track, or be constrained by the Org pillars; pillar definitions were context given because the program asked; focus is market intel.
+
+Work Log:
+- State recovery: origin/main == local main at cd1a628 (Amendment 003 pushed); tree clean.
+- Located all pillar-tasking surfaces: charter §6.3 (four standing duties + tags), §6.5 (5 pillar queue adds), §6.4 (pillar crosswalk), README line 9 (standing tags), README Wave 1 entry, calendar.md standing-scans + Wave 1b staging.
+- Wrote charter §8 (Amendment 004): owner directive verbatim; 8.1 changes (standing pillar-support duties dissolved — no monitoring/tracking/routing obligation toward P1/P2/DAO; pillar definitions = owner context, background not tasking; tags [P2-FEED]/[P1-WATCH]/[DAO-WATCH] retired from output contract; no pillar-derived queue items — Wave 1 satisfied §6.5 adds, nothing carries; mandate = §2 whole and unconstrained across market landscapes); 8.2 non-changes (Org architecture record stays as background incl. Amendment 003 SRW3 identity; tri-focal lens mandate stays — audience contract, not pillars; brain-led expansion §6.2 stays; findings-bank protocol stays); 8.3 Cycle 004 re-staging (Wave 1b = pure market-intel marker sweep Oct 27 IST / Oct 31 OCC / objection windows / OPay / Fed; Wave 2 = first tri-focal brief over market-intel evidence).
+- Inline edits: charter Status header + §6.3 retirement banner + §6.5 completion note; README org-architecture line (background-only framing, tags retired) + Wave 1 entry note; calendar.md standing-scans retirement note + Wave 1b re-staged as pure market intel (arable-symbol full pull optional, evidence-gated).
+- Mirrored charter.md, README.md, calendar.md, worklog.md to /home/z/my-project/download/market-intel/; committed + pushed to GitHub main via one-off inline PAT URL.
+
+Stage Summary:
+- Amendment 004 IN FORCE: Market Intel's job is market intel — strategic intel, discovery, actionable edges, opportunities across different market landscapes. The Org pillars (SRW3 / Edge-Engine / future DAO) are background facts, never taskings; all pillar-support duties, tags, and queue items are retired.
+- Standing and unchanged: tri-focal lens mandate (Decision/Builder/Map from Cycle 004), brain-led expansion + expansion-thesis Discovery output, findings-bank maintenance, cycle protocol, all dated triggers.
+- Next wave: owner ping on/after Oct 27 → Wave 1b pure market-intel marker sweep → Wave 2 first tri-focal brief.
+- PAT used for push; rotation reminder stands.
