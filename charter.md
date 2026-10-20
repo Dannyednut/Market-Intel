@@ -8,7 +8,7 @@
 
 Market Intel is the **third pillar of an envisioned Org** (owner's framing, 2026-10-20). It is not a standalone research hobby and not a software product: it is the organization's standing intelligence function.
 
-- Pillars 1 and 2 of the Org are **not yet defined by the owner**. Until they are, Market Intel treats "the Org" as the principal it serves and keeps its edge-targeting general. When the owner defines them, this charter gets amended and edge-targeting narrows accordingly.
+- ~~Pillars 1 and 2 of the Org are not yet defined by the owner.~~ **Superseded by Charter Amendment 002 (§6, 2026-10-20): the Org architecture is now defined.**
 - The findings bank (`findings/`) is the **Org's institutional brain** — accumulated, verified, confidence-graded memory that outlives any single cycle or session. Every cycle must treat prior findings as assets to be maintained (verified, revised, killed) rather than re-derived.
 
 ## 2. Mandate (owner-confirmed, 2026-10-20)
@@ -65,4 +65,49 @@ First cut of the current portfolio through the three lenses. Cycle 004 re-render
 
 - **Steering:** owner directives (like this amendment) enter the next wave as top-priority inputs and are recorded in the worklog. Directives may add scope, kill scope, or re-rank the portfolio.
 - **Cycle protocol unchanged:** ping-triggered long sessions; Research → Discovery → Analysis → Engineering waves; synthesis into PDF + markdown brief; archive to this repository; worklog = program memory.
-- **Cycle 004 queue (armed):** OCC rule-text reading (Oct 31 target); Oct 27 IST event read-through; objection-window expiries Nov 3–8 vs ≥30-name gate; EBA/USDC Nov 12; OPay pricing mark; Nasdaq Dec 6 session-share baseline; Ghana Dec regime text; JPM licence grant; live exclusivity term-sheet pricing vs Mavapay floor; **first brief rendered under the tri-focal mandate**.
+- **Cycle 004 queue (armed):** OCC rule-text reading (Oct 31 target); Oct 27 IST event read-through; objection-window expiries Nov 3–8 vs ≥30-name gate; EBA/USDC Nov 12; OPay pricing mark; Nasdaq Dec 6 session-share baseline; Ghana Dec regime text; JPM licence grant; live exclusivity term-sheet pricing vs Mavapay floor; **first brief rendered under the tri-focal mandate**. Amended by §6.5.
+
+---
+
+## 6. Charter Amendment 002 — Org architecture defined; brain-led expansion (2026-10-20)
+
+### 6.1 The three pillars
+
+| Pillar | Project | Status | Role |
+|---|---|---|---|
+| **1 — Foundation** | [SRW3](https://github.com/Dannyednut/SRW3) (`Dannyednut/SRW3`) | In research | Formal-verification research: abstract K/KEVM model with commitment gates (`<committed>`/`<prospective>`), invariants, effect-completeness (`wfCheck`), lineage, authority/policy cells; three-app binding scope **Oracle / Lending / Liquidator**. The correctness foundation on which Pillar 2's DAO governance will be modeled. |
+| **2 — Engine** | [Edge-Engine](https://github.com/Dannyednut/Edge-Engine) (`Dannyednut/Edge-Engine`) | Narrow project, in development (paper-trading only, not live, not audited) | Arbitrage engine: 33 strategies / 19 running across Hyperliquid, Ethereum, Solana, HyperEVM, 8+ CEX/DEX venues. Current unique edge: **VOOI price-spread arb on private-AI-company perps** (alias markets sharing Hyperliquid's USDC margin pool; MEXC→venue legs; ~90% 2.5-min persistence claimed, paper). Tier-2 VOOI funding arb; Tier-3 HyperEVM kHYPE carry + Euler lending. `AgentVault.sol` exists; go-live awaits principal approval. Trajectory: expand into a **DAO following the model of its foundation (SRW3)**. |
+| **3 — The Brain** | Market Intel (this program) | Operational — 3 cycles complete | Strategy and business operations of the envisioned org flow from here. |
+
+### 6.2 Governing principle — brain-led expansion
+
+Owner directive (2026-10-20): *"The strategy and business operations of the envisioned organizations will mostly come from its third pillar — Market Intel: The Brain. The brain is not limited to the scope of the organization at any point, but the expansion of the org is dependent on the capacity of the brain's intelligence and discovery."*
+
+Operational translation:
+
+1. **Research scope remains unbounded by org scope.** The org follows the evidence; the brain does not follow the org.
+2. **New standing Discovery output — expansion theses:** each cycle's Discovery wave must produce evidence-backed, falsifiable cases for where the Org should move next (new market, capability, or structure), each carrying a capital posture and a kill condition. This is the mechanism by which brain capacity converts into org expansion.
+3. **Strategy cards are org business-ops drafts.** The Brain's Engineering outputs are first-class organizational artifacts, not internal analysis.
+
+### 6.3 Pillar-support duties (new standing workloads, tagged in all future outputs)
+
+- **[P2-FEED] Edge-Engine pipeline:** intel products relevant to live/latent strategies are tagged and routed. Initial crosswalk: issuer-objection map ↔ TokenizedEquity arable-symbol set; stablecoin float/flow ↔ StablecoinDepeg + margin-pool monitors; Hyperliquid/HYPE ecosystem risk ↔ kHYPE carry; venue-risk watch (VOOI, MEXC, Backpack, Hyperliquid) ↔ counterparty exposure; funding-rate regimes ↔ funding arb.
+- **[P1-WATCH] SRW3 domain:** formal-verification landscape (K ecosystem, KEVM, audit market, competing verification stacks) monitored for positioning as SRW3 matures.
+- **New standing landscape — private-AI-company equity perps:** Pillar 2's current unique edge lives in alias/perp markets on private AI companies. The Brain opens this as a standing landscape: market structure, oracle/settlement mechanics, counterparty and venue risk, regulatory posture, and above all the **durability of the spread** (structural vs transient). Cycle 004 carries the first scan.
+- **[DAO-WATCH] Pillar 2 trajectory:** regulatory and governance-model intel for the future DAO (legal wrappers, DUNA/MiCA posture, treasury-management practice, governance-framework market).
+
+### 6.4 Portfolio v3 pillar crosswalk (initial)
+
+- **C2 session-bridge** ↔ [P2-FEED] TokenizedEquity / EquityPerpCrossVenue: the objection map *is* the engine's arable-symbol set; the Dec 6 clock is shared.
+- **C6 consent-administration** ↔ [P2-FEED] + standalone construct: consent data is a raw input the engine needs.
+- **C7 payout-leg Holdco** ↔ [P2-FEED]: stablecoin-rail health underwrites margin-movement legs.
+- **C4 warehouse-to-IPO** ↔ Org capital formation / future DAO treasury trajectory.
+- **C1 / C3** ↔ EM rails + yield-perimeter (P11) for org operating footprint.
+
+### 6.5 Cycle 004 queue — amended (adds, all carried triggers unchanged)
+
+1. **First private-AI-equity-perps landscape scan** (market structure, oracle/settlement, venue/counterparty risk, spread durability) — [P2-FEED], highest added value.
+2. **Formal-verification market scan** — [P1-WATCH].
+3. **DAO-formation intel sweep** — [DAO-WATCH].
+4. **Venue-risk baseline** on VOOI / MEXC / Backpack / Hyperliquid — [P2-FEED].
+5. **Objection-list → Edge-Engine arable-symbol deliverable** — [P2-FEED], direct pipeline artifact.

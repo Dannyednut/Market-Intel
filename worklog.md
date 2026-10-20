@@ -340,3 +340,22 @@ Stage Summary:
 - Cycle 004 queue armed with dated triggers: Oct 27 IST NYSE event, Oct 31 OCC rule target (kill trigger #1), Nov 3-8 objection-window expiries (16/20 threshold), Nov 12 EBA/USDC, mid-Nov OPay pricing, Dec 6 Nasdaq 23x5, Dec Ghana regime + JPM grant, plus live exclusivity term-sheet pricing vs Mavapay floor.
 - Owner open item: define Org pillars 1-2 (will narrow edge-targeting once given).
 - PAT hygiene: recommend token rotation at owner's convenience.
+---
+Task ID: CA-2 (Charter Amendment 002 — Org architecture defined; brain-led expansion)
+Agent: orchestrator (main)
+Task: Register owner's pillar definitions; ground them by reading both pillar repos; encode brain-led expansion + pillar-support duties; amend Cycle 004 queue.
+
+Work Log:
+- Cloned and read both pillar repos (shallow): Dannyednut/SRW3 + Dannyednut/Edge-Engine.
+- SRW3 read: Phase 0-D worklog + report structure — abstract K/KEVM model (K v7.1.337, KEVM v1.0.921, z3 4.13.3, haskell backend) with commitment boundary (<committed>/<prospective>), evalInv invariants, hypergraph registry + Affected(tau), wfCheck effect-completeness, lineage, authority/policy cells; 12 krun demos PASS incl. gate rejects, hidden-effect violations, IOL/IOLD oracle + settlement lineage rejects; three-app binding scope Oracle/Lending/Liquidator.
+- Edge-Engine read: README + SYSTEM_STATUS (Oct 7) — 33 strategies/19 running, paper-only; current unique edge = VOOI price-spread arb on private-AI-company perps (Anthropic/OpenAI alias markets sharing Hyperliquid USDC margin pool; MEXC→venue legs; ~$1,000/cycle top-5, 90% 2.5-min persistence claim, 2,192% APR paper claim on $25k); Tier-2 VOOI funding arb 30-60% APR; Tier-3 kHYPE carry 68% + Euler 7.5%; AgentVault.sol; 192/298 alias assets decoded; go-live awaiting principal approval; HYPE 3.5x overnight, HLP -50% 30d noted in-engine.
+- Wrote charter.md §6 (Amendment 002): 6.1 pillar table (P1 SRW3 foundation / P2 Edge-Engine → DAO on SRW3 model / P3 Market Intel = The Brain); 6.2 brain-led expansion principle (owner directive verbatim + operational translation: unbounded research scope; standing Discovery output = expansion theses with capital posture + kill condition; strategy cards = org business-ops drafts); 6.3 pillar-support duties ([P2-FEED] pipeline crosswalk, [P1-WATCH] formal-verification landscape, NEW standing landscape private-AI-equity perps, [DAO-WATCH]); 6.4 portfolio v3 pillar crosswalk (C2↔TokenizedEquity objection map, C6↔consent data, C7↔stablecoin rails, C4↔DAO treasury trajectory); 6.5 Cycle 004 queue amended with 5 adds (private-AI-perps scan #1 priority, formal-verification scan, DAO sweep, venue-risk baseline VOOI/MEXC/Backpack/Hyperliquid, objection-list→arable-symbol deliverable).
+- §1 amended (pillars-undefined note superseded by §6); README org-architecture line added; mirrored to download/.
+- Analytical note recorded: engine's paper claims (100% win rate, 2,192% APR) are self-flagged unaudited simulation artifacts; the Brain's first P2-FEED scan targets exactly the unmodeled risks (venue/counterparty/oracle, spread durability structural-vs-transient) ahead of the $25k go-live decision.
+- Committed and pushed to GitHub main via one-off inline PAT push URL.
+
+Stage Summary:
+- Org architecture registered: P1 SRW3 (foundation) → P2 Edge-Engine (engine → DAO) → P3 Market Intel (Brain). Brain-led expansion is now a governing principle; expansion theses added as standing Discovery output.
+- Cycle 004 queue amended: 5 pillar-support adds on top of all carried dated triggers; first private-AI-equity-perps scan = highest-value add (directly de-risks Pillar 2's go-live decision).
+- Standing tags in force from Cycle 004: [P2-FEED], [P1-WATCH], [DAO-WATCH].
+- PAT used again this session (push + public clones were tokenless); rotation reminder stands.
