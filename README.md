@@ -23,6 +23,7 @@ worklog.md   Program memory: agent assignments and outputs per cycle
 
 ## Current state
 
+- **Cycle 002 — Verification & Deep-Dive** (2026-10-20): all three Cycle 001 single-source findings survived verification ([E7] CONFIRMED, [C8] CONFIRMED, [F14] PARTIAL); 2 new structural problems formalized (P8 issuer-content veto, P9 last-mile rail capture); whitespace map re-ranked on corridor-level unit economics (8 positions, 2 new, 2 killed); strategy portfolio rebuilt — 1 card killed, 2 new constructs, payout leg is the center of gravity; watchlist rebuilt to 10 dated falsifiable markers. Start with [`briefs/cycle-002-brief.pdf`](briefs/cycle-002-brief.pdf).
 - **Cycle 001 — Baseline** (2026-10-19): 42 verified findings, 7 structural problems, 6 live whitespace positions (1 killed), 5 engineered strategy constructs. Start with [`briefs/cycle-001-brief.pdf`](briefs/cycle-001-brief.pdf).
 
 ## Steering
