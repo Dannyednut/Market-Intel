@@ -321,3 +321,22 @@ Stage Summary:
 - Cycle 003 COMPLETE. Governing thesis: the compression cycle - every Cycle 002 moat compressed in one week while issuer consent institutionalized; durable edges are now contracts signed before windows close, not spreads owned.
 - Key corrections adopted: Tazapay agreed-not-closed; NGN float anchor 15.90% (not 16.84%); "Nasdaq-Kraken gateway launched" downgraded to announced; no SEC decision exists (3-gate cluster).
 - Cycle 004 queue: OCC rule text read Oct 31 (trigger #1); IST NYSE event Oct 27 read-through; objection-window expiries Nov 3-8 (JPM/WMT/COST/LLY); EBA/USDC Nov 12; OPay pricing mid-Nov; Nasdaq 23x5 Dec 6; Ghana regime Dec; JPM licence grant Dec; live exclusivity term-sheet pricing vs Mavapay floor; user directives (none yet).
+---
+Task ID: CA-1 (Charter Amendment 001 — inter-cycle directive registration)
+Agent: orchestrator (main)
+Task: Register owner directive — Market Intel = third pillar of an envisioned Org; all-three-consumer mandate; tri-focal lens charter amendment; re-project portfolio v3; arm Cycle 004.
+
+Work Log:
+- State recovery: verified origin/main == local main at 4e8d3b3 (all three cycles committed AND pushed); restored 15 mode-only (100644→100755) diffs to a clean tree; confirmed master worklog == repo worklog (byte-identical).
+- Owner directive registered verbatim in charter: (1) Market Intel is the third pillar of an envisioned Org (pillars 1-2 undefined — edge-targeting stays general until owner defines them); (2) principal = all three consumers (decision-maker/investor, builder/founder, strategic observer); (3) mandate confirmed: strategic intel, discovery, actionable edges, opportunities across market landscapes.
+- No fresh research wave run: Cycle 003 completed 2026-10-20 on same-day data (nearest triggers Oct 27/Oct 31); same-day rescan judged redundant. Session classified as inter-cycle directive registration + charter alignment.
+- Wrote charter.md (Charter Amendment 001): §1 identity/Org position + findings bank designated the Org's institutional brain; §2 owner-confirmed mandate; §3 tri-focal lens mandate (Decision/Builder/Map) with 4 hard rules — layers-not-silos over one evidence base, Map lens authoritative on contradiction, every Decision item dated, every Builder item carries capital posture + expiry condition; §4 initial re-projection of Portfolio v3 through the three lenses; §5 governance + armed Cycle 004 queue (adds: first tri-focal brief render).
+- README updated (charter link + amendment entry atop Current state).
+- Re-projection highlights — Decision: back C4 anchor (EM exit window widening: OPay ~$4B, Mynt ~$7B PSE); avoid P11-perimeter yield products, second-source credit, head-on vs $4.2B Bullish–Equiniti; watch-to-decide = Oct 27 / Oct 31 / Nov 3-8 / Nov 12 / mid-Nov / Dec 6. Builder: build order C7 exclusivity-first (contracts before windows close) → C6 zero-capital consent-administration wedge; C2 stage-gated; C3 rider-only. Map: compression thesis; float/flow two-way divergence ($304.1B vs +36% m/m); consent institutionalized (16 objectors, no pending SEC decision); yield-ban globalization; EM exits bifurcate beyond Africa.
+- Mirrored charter.md, README.md, worklog.md to /home/z/my-project/download/market-intel/; committed and pushed to GitHub main via one-off inline PAT push URL (token not persisted in any tracked file, remote config, or worklog).
+
+Stage Summary:
+- Charter Amendment 001 IN FORCE: from Cycle 004 every brief carries Decision/Builder/Map layers over the shared evidence base; tri-focal rendering is a synthesis-stage acceptance criterion (brief fails QA without all three lenses).
+- Cycle 004 queue armed with dated triggers: Oct 27 IST NYSE event, Oct 31 OCC rule target (kill trigger #1), Nov 3-8 objection-window expiries (16/20 threshold), Nov 12 EBA/USDC, mid-Nov OPay pricing, Dec 6 Nasdaq 23x5, Dec Ghana regime + JPM grant, plus live exclusivity term-sheet pricing vs Mavapay floor.
+- Owner open item: define Org pillars 1-2 (will narrow edge-targeting once given).
+- PAT hygiene: recommend token rotation at owner's convenience.
