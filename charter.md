@@ -1,6 +1,6 @@
 # Market Intel — Program Charter
 
-**Status:** Amended 2026-10-20 (Charter Amendment 001 — first user directive of record). Supersedes the informal charter in README §"How the program runs" where they conflict; all other program mechanics unchanged.
+**Status:** Amended 2026-10-20 (Charter Amendment 001 — first user directive of record); further amended by §6 (Amendment 002 — Org architecture) and §7 (Amendment 003 — SRW3 identity clarification, 2026-10-21). Supersedes the informal charter in README §"How the program runs" where they conflict; all other program mechanics unchanged.
 
 ---
 
@@ -75,8 +75,8 @@ First cut of the current portfolio through the three lenses. Cycle 004 re-render
 
 | Pillar | Project | Status | Role |
 |---|---|---|---|
-| **1 — Foundation** | [SRW3](https://github.com/Dannyednut/SRW3) (`Dannyednut/SRW3`) | In research | Formal-verification research: abstract K/KEVM model with commitment gates (`<committed>`/`<prospective>`), invariants, effect-completeness (`wfCheck`), lineage, authority/policy cells; three-app binding scope **Oracle / Lending / Liquidator**. The correctness foundation on which Pillar 2's DAO governance will be modeled. |
-| **2 — Engine** | [Edge-Engine](https://github.com/Dannyednut/Edge-Engine) (`Dannyednut/Edge-Engine`) | Narrow project, in development (paper-trading only, not live, not audited) | Arbitrage engine: 33 strategies / 19 running across Hyperliquid, Ethereum, Solana, HyperEVM, 8+ CEX/DEX venues. Current unique edge: **VOOI price-spread arb on private-AI-company perps** (alias markets sharing Hyperliquid's USDC margin pool; MEXC→venue legs; ~90% 2.5-min persistence claimed, paper). Tier-2 VOOI funding arb; Tier-3 HyperEVM kHYPE carry + Euler lending. `AgentVault.sol` exists; go-live awaits principal approval. Trajectory: expand into a **DAO following the model of its foundation (SRW3)**. |
+| **1 — Foundation** | [SRW3](https://github.com/Dannyednut/SRW3) (`Dannyednut/SRW3`) | In research | **Identity (Amendment 003): a Foundation-First Security Architecture for Blockchain Applications — not a market thing.** Formalization research: abstract K/KEVM model with commitment gates (`<committed>`/`<prospective>`), invariants, effect-completeness (`wfCheck`), lineage, authority/policy cells; three-app binding scope **Oracle / Lending / Liquidator**. Still being formalized in research phase. If formalization succeeds, **the organization (DAO) will be built on it.** ~~Superseded wording: "the correctness foundation on which Pillar 2's DAO governance will be modeled."~~ |
+| **2 — Engine** | [Edge-Engine](https://github.com/Dannyednut/Edge-Engine) (`Dannyednut/Edge-Engine`) | Narrow project, in development (paper-trading only, not live, not audited) | Arbitrage engine: 33 strategies / 19 running across Hyperliquid, Ethereum, Solana, HyperEVM, 8+ CEX/DEX venues. Current unique edge: **VOOI price-spread arb on private-AI-company perps** (alias markets sharing Hyperliquid's USDC margin pool; MEXC→venue legs; ~90% 2.5-min persistence claimed, paper). Tier-2 VOOI funding arb; Tier-3 HyperEVM kHYPE carry + Euler lending. `AgentVault.sol` exists; go-live awaits principal approval. Trajectory: paper → live pending principal approval and risk gates. DAO founding is **org-level and conditional on SRW3** (Amendment 003): if SRW3's formalization succeeds, the organization (DAO) is built on SRW3 — SRW3 is not the engine's private model, and not a market thesis. ~~Superseded wording: "expand into a DAO following the model of its foundation (SRW3)."~~ |
 | **3 — The Brain** | Market Intel (this program) | Operational — 3 cycles complete | Strategy and business operations of the envisioned org flow from here. |
 
 ### 6.2 Governing principle — brain-led expansion
@@ -92,7 +92,7 @@ Operational translation:
 ### 6.3 Pillar-support duties (new standing workloads, tagged in all future outputs)
 
 - **[P2-FEED] Edge-Engine pipeline:** intel products relevant to live/latent strategies are tagged and routed. Initial crosswalk: issuer-objection map ↔ TokenizedEquity arable-symbol set; stablecoin float/flow ↔ StablecoinDepeg + margin-pool monitors; Hyperliquid/HYPE ecosystem risk ↔ kHYPE carry; venue-risk watch (VOOI, MEXC, Backpack, Hyperliquid) ↔ counterparty exposure; funding-rate regimes ↔ funding arb.
-- **[P1-WATCH] SRW3 domain:** formal-verification landscape (K ecosystem, KEVM, audit market, competing verification stacks) monitored for positioning as SRW3 matures.
+- **[P1-WATCH] SRW3 domain:** formal-verification landscape (K ecosystem, KEVM, audit market, competing verification stacks) monitored **as environment intelligence for the foundation's maturation** — demand evidence, adoption signals, competing stacks, race risk. SRW3 itself is **not a market thing** (Amendment 003): the Brain never positions, prices, or portfolio-ranks SRW3; it monitors the world SRW3 formalizes into.
 - **New standing landscape — private-AI-company equity perps:** Pillar 2's current unique edge lives in alias/perp markets on private AI companies. The Brain opens this as a standing landscape: market structure, oracle/settlement mechanics, counterparty and venue risk, regulatory posture, and above all the **durability of the spread** (structural vs transient). Cycle 004 carries the first scan.
 - **[DAO-WATCH] Pillar 2 trajectory:** regulatory and governance-model intel for the future DAO (legal wrappers, DUNA/MiCA posture, treasury-management practice, governance-framework market).
 
@@ -113,3 +113,29 @@ Operational translation:
 3. **DAO-formation intel sweep** — [DAO-WATCH].
 4. **Venue-risk baseline** on VOOI / MEXC / Backpack / Hyperliquid — [P2-FEED].
 5. **Objection-list → Edge-Engine arable-symbol deliverable** — [P2-FEED], direct pipeline artifact.
+
+---
+
+## 7. Charter Amendment 003 — SRW3 identity clarification: foundation-first security architecture, not a market thing (2026-10-21)
+
+Owner directive (2026-10-21, verbatim): *"Don't confuse things. Source-Rooted Web3 (SRW3) is not a market thing. It's a Foundation-First Security Architecture for Blockchain Applications still being formalized in research phase. If successful, the organization (DAO) will be built on it."*
+
+### 7.1 Corrected identity of Pillar 1
+
+1. **Category:** SRW3 is a **Foundation-First Security Architecture for Blockchain Applications** — security enforced at the application foundation (commitment gates `<committed>`/`<prospective>`, invariants, effect-completeness `wfCheck`, lineage, authority/policy cells) rather than bolted on after deployment. Its formalization vehicle is the K/KEVM research model (binding scope Oracle / Lending / Liquidator).
+2. **Phase:** still being **formalized in research phase**. No product claims, no market claims, and no performance claims attach to it from the Brain's side.
+3. **Not a market thing:** SRW3 is not a Market Intel subject, not a portfolio asset, not a Builder/Decision-lens item, and not a business the Brain is "positioning." It appears in outputs only as the Org's Pillar 1 and via [P1-WATCH] environment monitoring.
+4. **Conditional founding of the DAO:** **if SRW3's formalization succeeds, the organization (DAO) will be built on it.** This is an org-level statement. It supersedes the Amendment 002 framing that located the DAO build inside Pillar 2 ("Pillar 2's DAO governance will be modeled on SRW3"; Edge-Engine "destined to become a DAO modeled on its foundation").
+
+### 7.2 What does NOT change
+
+- **[P1-WATCH] continues:** monitoring the formal-verification landscape remains a standing duty — reframed as environment intelligence for the foundation's maturation, never as market positioning of SRW3. The Cycle 004 Wave 1 FV scan (findings 4b) stands as valid landscape evidence (demand catastrophes, zero-vendor whitespace, race risk).
+- **Brain-led expansion (§6.2) untouched:** research scope was already unbounded; this amendment fixes what SRW3 *is*, not what the Brain watches.
+- **Cycle 004 queue unchanged** (§5, §6.5): all dated triggers and Wave 1b staging stand.
+
+### 7.3 Corrections applied by this amendment
+
+- §6.1 P1 role row and P2 trajectory row corrected (superseded wording struck in place).
+- §6.3 [P1-WATCH] reframed from "positioning" to environment monitoring.
+- README org-architecture line corrected.
+- `findings/cycle-004-wave1-research.md` cross-wave synthesis line reworded with an inline note referencing this amendment; `findings/cycle-004-wave1/4b-formal-verification-market.md` header carries the identity note.

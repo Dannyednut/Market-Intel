@@ -382,3 +382,20 @@ Stage Summary:
 - SRW3 positioning sharpened: runtime-enforcement layer is an empty shelf with two live demand catastrophes (Aave $21.7M, BonkDAO $20M) and a 12–18mo race risk from Certora.
 - Wave 1b staged (calendar.md): owner ping on/after Oct 27 sweeps Oct 27 IST read-through + Oct 31 OCC rule + Nov 3–8 window approach + Fed Oct 27–28; then Wave 2 full-cycle analysis/engineering + tri-focal brief (first under Amendment 001).
 - PAT used for push; rotation reminder stands.
+---
+Task ID: CA-3 (Charter Amendment 003 — SRW3 identity clarification)
+Agent: orchestrator (main)
+Task: Register owner correction — SRW3 is not a market thing; it is a Foundation-First Security Architecture for Blockchain Applications in formalization research phase; if successful, the organization (DAO) will be built on it.
+
+Work Log:
+- State recovery: origin/main == local main at ca4a347 (Cycle 004 Wave 1 already pushed); 23 mode-only (100644→100755) working-tree diffs restored to clean tree (0 insertions/deletions — environment noise, no content change).
+- Grepped full repo for SRW3 characterizations; found 5 confusion points: charter §6.1 P1 row ("correctness foundation on which Pillar 2's DAO governance will be modeled"), §6.1 P2 row ("expand into a DAO following the model of its foundation (SRW3)"), §6.3 [P1-WATCH] ("monitored for positioning"), README ("destined to become a DAO modeled on its foundation"), wave1-research cross-wave synthesis ("SRW3's positioning has never been clearer").
+- Wrote charter §7 (Amendment 003): owner directive verbatim; 7.1 corrected identity (category = Foundation-First Security Architecture for Blockchain Applications; phase = formalization research; not a market thing — never positioned/priced/portfolio-ranked by the Brain; conditional DAO founding at ORG level: if SRW3 succeeds, the organization's DAO is built on it — supersedes Pillar-2-located DAO framing); 7.2 non-changes ([P1-WATCH] continues as environment monitoring, brain-led expansion untouched, Cycle 004 queue unchanged); 7.3 corrections-applied list.
+- Inline edits: charter Status header now references Amendments 002/003; §6.1 both rows corrected with superseded wording struck; §6.3 [P1-WATCH] reframed to environment intelligence; README org-architecture line corrected; findings/cycle-004-wave1-research.md synthesis line 3 reworded to demand-evidence framing + Amendment 003 note; expansion-thesis line annotated (thesis maps a landscape capability gap only; productization decision belongs to the owner, not the Brain); findings/cycle-004-wave1/4b header identity note added.
+- Mirrored charter.md, README.md, worklog.md, findings/cycle-004-wave1-research.md, findings/cycle-004-wave1/4b-formal-verification-market.md to /home/z/my-project/download/market-intel/; committed + pushed to GitHub main via one-off inline PAT URL.
+
+Stage Summary:
+- Amendment 003 IN FORCE: SRW3 = Foundation-First Security Architecture for Blockchain Applications (research phase, NOT a market thing); the org's DAO will be built on it IF formalization succeeds — DAO founding is org-level and conditional, not a Pillar-2 trajectory.
+- [P1-WATCH] continues, reframed: environment monitoring for the foundation's maturation; the Brain never positions SRW3 as a market asset.
+- Cycle 004 queue and all dated triggers unchanged; next scheduled wave = Oct 27+ ping (Wave 1b sweep + Wave 2 full cycle + first tri-focal brief).
+- PAT used for push; rotation reminder stands.

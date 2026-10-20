@@ -1,7 +1,7 @@
 # Formal Verification Market — Landscape Scan (Cycle 004)
 
 **Task ID:** C4-1b · **Cycle:** 004 Wave 1 · **Report date:** 2026-10-21 (web fetches performed 2026-10-20/21 UTC)
-**Scope:** Formal verification (FV) & smart-contract correctness market, supporting [P1-WATCH] / Pillar 1 "SRW3" (abstract K/KEVM model with commitment gates, invariants, effect-completeness, lineage tracking, authority/policy cells; binding scope Oracle / Lending / Liquidator).
+**Scope:** Formal verification (FV) & smart-contract correctness market, supporting [P1-WATCH] / Pillar 1 "SRW3" (abstract K/KEVM model with commitment gates, invariants, effect-completeness, lineage tracking, authority/policy cells; binding scope Oracle / Lending / Liquidator). **Identity note (charter Amendment 003, 2026-10-21): SRW3 is a Foundation-First Security Architecture for Blockchain Applications, in formalization research phase — not a market thing. This scan monitors the environment around Pillar 1; it does not position SRW3 as a product or market asset.**
 **Method:** ~16 web searches + ~14 page fetches via headless browser / HTTP. No paid databases (PitchBook/Crunchbase behind paywall — figures cited are from free tiers/trackers and are graded accordingly).
 **Confidence grades:** A = primary/official source · B = 2+ independent outlets · C = single outlet · D = unverified/claim. Vendor-supplied numbers (TVL secured, vulns prevented) are marked as vendor claims even when published.
 

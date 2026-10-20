@@ -6,7 +6,7 @@ Continuous multi-agent market intelligence research program. NOT a software proj
 
 **Charter:** [`charter.md`](charter.md) — program identity (third pillar of an envisioned Org), owner-confirmed mandate, and the tri-focal lens mandate effective from Cycle 004.
 
-**Org architecture (Amendment 002, 2026-10-20):** Pillar 1 — [SRW3](https://github.com/Dannyednut/SRW3) (formal-verification foundation, in research) → Pillar 2 — [Edge-Engine](https://github.com/Dannyednut/Edge-Engine) (paper-trading arbitrage engine, destined to become a DAO modeled on its foundation) → Pillar 3 — **Market Intel = The Brain** (this repo). Strategy and business operations flow from the Brain; the org's expansion is constrained by the Brain's intelligence and discovery capacity — not by the org's current scope. Standing pillar-support tags: `[P2-FEED]`, `[P1-WATCH]`, `[DAO-WATCH]`.
+**Org architecture (Amendment 002, 2026-10-20; amended by Amendment 003, 2026-10-21):** Pillar 1 — [SRW3](https://github.com/Dannyednut/SRW3) (**Foundation-First Security Architecture for Blockchain Applications** — in formalization research phase; not a market thing; if successful, the organization's DAO will be built on it) → Pillar 2 — [Edge-Engine](https://github.com/Dannyednut/Edge-Engine) (paper-trading arbitrage engine, go-live awaits principal approval) → Pillar 3 — **Market Intel = The Brain** (this repo). Strategy and business operations flow from the Brain; the org's expansion is constrained by the Brain's intelligence and discovery capacity — not by the org's current scope. Standing pillar-support tags: `[P2-FEED]`, `[P1-WATCH]`, `[DAO-WATCH]`.
 
 ## How the program runs
 
