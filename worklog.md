@@ -416,3 +416,23 @@ Stage Summary:
 - Standing and unchanged: tri-focal lens mandate (Decision/Builder/Map from Cycle 004), brain-led expansion + expansion-thesis Discovery output, findings-bank maintenance, cycle protocol, all dated triggers.
 - Next wave: owner ping on/after Oct 27 → Wave 1b pure market-intel marker sweep → Wave 2 first tri-focal brief.
 - PAT used for push; rotation reminder stands.
+---
+Task ID: C4-W1c (Cycle 004 Wave 1c — interim boot-sweep & progress record)
+Agent: orchestrator (main)
+Task: Owner ping "continue" (2026-10-21, before the Oct 27 marker cluster). Per calendar.md session-boot protocol + charter Amendment 004: run boot sweep for early marker fires + carried-evidence refresh; pure market intel; Wave 1b stays staged for Oct 27+.
+
+Work Log:
+- State probe: origin/main == local main at 163b2ab (Amendment 004 pushed); restored recurring mode-only (100644→100755) noise to clean tree.
+- Boot sweep (3 web-search batches + 1 tracker fetch, Oct 21 UTC): verdict = NO MARKER FIRED EARLY; all dated triggers pending; Wave 1b staging unchanged.
+- [W1c-1] Grade A: Oct 27 IST Coalition NYSE event CONFIRMED — Alpaca official blog (Oct 1): Coalition participants meet issuers and capital-markets leaders at NYSE on Oct 27 on tokenization's future. Coalition membership: Bullish + Equiniti (founders, Sep 24) + Alpaca + Apex Fintech + DriveWealth. SEC Sept 17 Innovation Exemption (5-yr, same-rights verification) frames the event. New infra datapoints: Alpaca ~94% custody share claim (end-2025, vendor), ITN in-kind mint/redeem, IST-on-ITN "coming months", DTCC working-group seat. Map-lens read: consent-gated IST model consolidating pre-event; reinforces P8/P10 + Card 6 positioning; no capital before Oct 27 (unchanged).
+- [W1c-2] Grade A: float $302.922B (DefiLlama, Oct 16; −0.42% 7d, +0.77% 30d) — inside <$310B confirm zone; watchlist #3 verdict window Jan 31, 2027 unchanged; snapshot band $303–304B (cross-source variance). Composition: USDS +9.2% m/m vs USD1 −6.4% / BUIDL −19.2% m/m — DeFi-native dollars taking share from wrapper dollars (feeds P12).
+- [W1c-3] Grade B: OPay roadshow signal — Investing.com (Oct 12, citing Bloomberg): ~$500M raise via private placement + NYSE IPO; $4B target; Citi/DB/JPM leads; NGX U-turn. Mid-Nov pricing window ON TRACK; Card 4 exit-model mark approaching on schedule.
+- [W1c-4] Grade A-negative: OCC issuer final rule still unpublished as of Oct 21 (only Mar 2 GENIUS NPRM surfaces; Chapman tracker stale as of Jul 16); Gould end-Oct target stands; kill trigger #1 armed, 10 days out. Context (different rulemaking): ICBA sued OCC Oct 2 (APA, Mar 2 trust-bank rule + IL 1176); second community-bank suit Oct 9 — rising litigation pressure on OCC crypto chartering; regulatory-temperature read only.
+- [W1c-5] FOMC Oct 27–28: six days out; no preview signal captured; outcome read booked for Wave 1b.
+- Synthesized findings/cycle-004-wave1c-progress.md (graded, calendar deltas listed). Calendar updates: Oct 27 → CONFIRMED; Oct 31 → "no final text as of Oct 21" note; OPay row → roadshow signal note; Jan 31 float row → $302.9B Oct 16 + band. README Wave 1c entry added atop Current state.
+- Mirrored findings/cycle-004-wave1c-progress.md, calendar.md, README.md, worklog.md to /home/z/my-project/download/market-intel/; committed + pushed to GitHub main via one-off inline PAT URL.
+
+Stage Summary:
+- Wave 1c COMPLETE: evidence base current through Oct 21; no early fires; Oct 27 event upgraded from pending to CONFIRMED with agenda/membership detail; OPay window on track; kill trigger #1 armed and 10 days out.
+- Next wave unchanged: owner ping on/after Oct 27 → Wave 1b marker sweep (Oct 27 read-through, Oct 31 OCC text, objection approach, OPay, Fed) → Wave 2 first tri-focal brief.
+- PAT used for push; rotation reminder stands.
